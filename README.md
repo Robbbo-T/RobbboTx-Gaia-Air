@@ -199,7 +199,6 @@
 - **31-60-00 Sistemas de Exposición Central**
 - **31-70-00 Sistemas de Reporte Automático de Datos**
 
-¡Por supuesto! A continuación, se presenta el **Manual Completo ATA 32-00-00 TREN DE ATERRIZAJE** para el **RobbboTx Gaia Air**. Este manual está diseñado para proporcionar una guía detallada y estructurada sobre el sistema de tren de aterrizaje, incluyendo la numeración de ítems, alternates, variantes, **CSN (Catalogue Serial Numbers)**, **FIN (Functional Instrument Numbers)**, consumibles y expendables. 
 
 ---
 
@@ -233,8 +232,6 @@
 9. [Anexos](#anexos)
 
 ---
-
-
 
 #### **ATA 33-00-00 LUCES**
 - **33-10-00 Compartimento de Vuelo**
