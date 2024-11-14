@@ -201,7 +201,8 @@ Here’s the Markdown version as requested:
 
 ## Visual Representation (Text-Based)
 
-+![image](https://github.com/user-attachments/assets/e49868a7-0c84-432c-a639-7265e4c45313)
+![image](https://github.com/user-attachments/assets/7d1a27d9-84f2-484b-ad7b-15a0386dc9fe)
+
 
 
 ## Potential Benefits of the Conceptual Reacting Model
