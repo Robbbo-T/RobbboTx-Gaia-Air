@@ -853,22 +853,22 @@ El capítulo **06 - [Electrical Power]** del **RobbboTX GAIA AIR** aborda [ la g
    - **Interacción con Neuronbit:** [Neuronbit ajusta automáticamente la distribución de energía para priorizar los sistemas más importantes, optimizando el consumo].
    - **Beneficio:** [Mejora la eficiencia energética sin comprometer la seguridad de la operación].
 
-2. **[Caso de Uso 2]:**
-   - **Escenario:** [Descripción del escenario].
-   - **Interacción con Neuronbit:** [Cómo Neuronbit interactúa con otros sistemas].
-   - **Beneficio:** [Beneficio específico].
+2. **[Detección de Fallos Eléctricos]:**
+   - **Escenario:** [Un componente del EDS presenta un fallo durante el vuelo].
+   - **Interacción con Neuronbit:** [Neuronbit activa el sistema de respaldo de energía (BES) automáticamente y notifica al equipo de mantenimiento].
+   - **Beneficio:** [Evita interrupciones en la operación del avión, asegurando la continuidad y seguridad del vuelo].
 
 #### **Métricas de Desempeño**
 
-- **[Métrica 1]:** [Descripción de la métrica].
-- **[Métrica 2]:** [Descripción de la métrica].
-- **[Métrica 3]:** [Descripción de la métrica].
-- **[Métrica 4]:** [Descripción de la métrica].
-- **[Métrica 5]:** [Descripción de la métrica].
+- **[Eficiencia en la Distribución de Energía]:** [Mide cómo se optimiza el uso de la energía y se reduce el desperdicio].
+- **[Tiempo de Respuesta a Fallos Eléctricos]:** [Mide el tiempo que tarda Neuronbit en detectar y responder a fallos eléctricos].
+- **[Nivel de Disponibilidad de Sistemas Críticos]:** [Calcula el porcentaje de tiempo que los sistemas esenciales permanecen operativos].
+- **[Tasa de Cumplimiento de Protocolos de Seguridad]:** [Mide el porcentaje de veces que las operaciones eléctricas cumplen con los procedimientos de seguridad].
+- **[Impacto Ambiental de la Gestión de Energía]:** [Evalúa la reducción de emisiones de carbono gracias a las estrategias de eficiencia energética].
 
 #### **Seguridad y Resiliencia**
 
-El sistema **Neuronbit** implementa protocolos de seguridad robustos para proteger la integridad y confidencialidad de los datos relacionados con [tema del ATA]. Además, se diseñan medidas de resiliencia para asegurar que Neuronbit pueda mantener sus funciones operativas incluso en condiciones adversas o frente a ataques cibernéticos, garantizando la continuidad de las operaciones de [tema específico].
+El sistema **Neuronbit** implementa protocolos de seguridad robustos para proteger la integridad y confidencialidad de los datos relacionados con [la gestión de la energía eléctrica]. Además, se diseñan medidas de resiliencia para asegurar que Neuronbit pueda mantener sus funciones operativas incluso en condiciones adversas o frente a ataques cibernéticos, garantizando la continuidad de las operaciones de [operaciones eléctricas].
 
 #### **Referencias y Recursos Adicionales**
 
