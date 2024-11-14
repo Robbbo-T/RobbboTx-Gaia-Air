@@ -10,7 +10,7 @@ Bienvenido al repositorio de **RobbboTX GAIA AIR**, un proyecto revolucionario e
 - [ATA 03 - Support](#03---support)
 - [ATA 04 - Airworthiness Limitations](#04---airworthiness-limitations)
 - [ATA 05 - Time Limits/Maintenance Checks](#05---time-limitsmaintenance-checks)
-- [ATA 06 - Electrical Power](#06 Electrical Power)
+- [ATA 06 - Electrical Power](#06---Electrical-Power)
 - [ATA 07 - [Nombre del ATA]](#07---nombre-del-ata)
 - ...
 - [ATA 20 - Standard Practices - Airframe](#20---standard-practices---airframe)
