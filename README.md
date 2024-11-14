@@ -1,5 +1,8 @@
 # RobbboTX GAIA AIR
 
+![image](https://github.com/user-attachments/assets/5183019a-d689-4349-a72b-bd72ceeacb67)
+
+
 Bienvenido al repositorio de **RobbboTX GAIA AIR**, un proyecto revolucionario en la industria de la aviación que integra tecnologías avanzadas de inteligencia artificial, robótica, sostenibilidad y gestión inteligente de tráfico aéreo. Este proyecto establece nuevos estándares de eficiencia, seguridad y sostenibilidad en el diseño y operación de aeronaves. La documentación a continuación cubre los diferentes capítulos ATA (Air Transport Association) que detallan los sistemas, procedimientos y tecnologías implementadas en el avión bajo un marco modular e inteligente.
 
 ---
