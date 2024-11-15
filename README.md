@@ -971,6 +971,8 @@ aircraft = trimesh.util.concatenate([fuselage, wings, tail])
 output_path = "/mnt/data/RobbboTx_GAIA_AIR.glb"
 aircraft.export(output_path)
 
+'''
+
 ## **04 - Airworthiness Limitations**
 
 ### **Descripción General**
